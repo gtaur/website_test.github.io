@@ -1,0 +1,28 @@
+/* Set the height of the navigation bar */
+.navbar {
+	height: 80px;
+}
+
+/* Set the height of the logo and center it vertically */
+.navbar-brand img {
+	height: 60px;
+	margin-top: 10px;
+}
+
+/* Set the height of the container and add padding */
+.container {
+	height: 500px;
+	padding-top: 50px;
+}
+
+/* Set the font size and line height of the heading and paragraph */
+h1, p {
+	font-size: 24px;
+	line-height: 1.5;
+}
+
+/* Set the background color and text color of the footer */
+footer {
+	background-color: #f8f9fa;
+	color: #000;
+}
